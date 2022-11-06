@@ -1,0 +1,5 @@
+prideland/devops-django-react-task-api:latest
+DIGEST:sha256:718fd6686bae5085188055c8b5bd96b20816ecf38975b62a1da1475893949830
+
+prideland/devops-django-react-task-frontend:latest
+DIGEST:sha256:60f2caef6d9f5881ae37fab1d9a1c3c10f649384c380fd553d2f85a015e86151
