@@ -6,6 +6,8 @@ COPY package.json .
 
 RUN npm install -g npm@8.19.3
 
+RUN npm install react-scripts
+
 COPY . .
 
 EXPOSE 3000
